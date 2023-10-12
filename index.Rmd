@@ -17,25 +17,22 @@ site: distill::distill_website
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Alvaro Pereira Filho studies political behaviour and comparative politics at Western  
+University. His research focuses on . He frequently collaborates .
+His work has been featured in Opiniao Publica and Innovation in Aging.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Western Ontario** | Ontario, Canada 
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Ph.D. in Political Science | September 2019 - Present
 
-**The University of California, Berkeley** | Berkeley, CA
+**University of Brasilia** | Distrito Federal, Brazil
 
-B.S. in Computer Science | September 2005 - May 2009
+M.A. in Political Science | March 2015 - June 2017
+
+B.S. in Political Science | August 2008 - June 2012
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
