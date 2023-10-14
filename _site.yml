@@ -1,8 +1,9 @@
 name: "."
-title: "ajpereira Website"
+title: "Alvaro Pereira Filho Website"
 description: |
   ajpereira Website
 output_dir: "docs"
+theme: ajpereira-theme.css
 navbar:
   right:
     - text: "Home"
