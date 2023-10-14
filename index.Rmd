@@ -2,24 +2,24 @@
 title: "Alvaro J. Pereira Filho"
 image: "alvaro.png"
 links:
-  - label: Google Scholar
-    url: "https://scholar.google.com/citations?user=GNRbR0QAAAAJ&hl=pt-BR&oi=ao"
-  - label: Twitter
-    url: "https://twitter.com/Alvarojpereiraf"
-  - label: GitHub
-    url: "https://github.com/AlvaPe"
-  - label: Email
-    url: "mailto:aperei65@uwo.ca"
+  - label: '<i class="fab fa-google"></i> Google Scholar'
+    url: 'https://scholar.google.com/citations?user=GNRbR0QAAAAJ&hl=pt-BR&oi=ao target = "_blank"'
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/Alvarojpereiraf target = "_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/AlvaPe target = "_blank"'
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: 'mailto:aperei65@uwo.ca target = "_blank"'
 output:
   postcards::trestles
 site: distill::distill_website  
 ---
  
-## Bio
+# Welcome!
 
-Alvaro Pereira Filho studies political behaviour and comparative politics at Western  
-University. His research focuses on . He frequently collaborates .
-His work has been featured in Opiniao Publica and Innovation in Aging.
+Alvaro J. Pereira Filho is a researcher specializing in Canadian and comparative politics at Western University, Canada. 
+His research primarily centers on partisanship and electoral behavior, and he actively collaborates with scholars from various disciplines, including political psychology and sociology. 
+His work has been featured in *Opinião Pública* and *Innovation in Aging*. 
 
 ## Education
 
@@ -27,10 +27,8 @@ His work has been featured in Opiniao Publica and Innovation in Aging.
 
 Ph.D. in Political Science | September 2019 - Present
 
-**University of Brasilia** | Distrito Federal, Brazil
+**Universidade de Brasilia** | Distrito Federal, Brasil
 
 M.A. in Political Science | March 2015 - June 2017
 
 B.S. in Political Science | August 2008 - October 2012
-
-## Experience
