@@ -14,8 +14,8 @@ navbar:
       href: funding_awards.html
     - text: "Teaching"
       menu:
-        - text: "Research Design"
-          href: research_design.html
-        - text: "Methods 1"
-          href: methods1.html
+      - text: "Research Design"
+        href: research_design.html
+      - text: "Methods 1"
+        href: methods1.html
 output: distill::distill_article

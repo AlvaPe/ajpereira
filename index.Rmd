@@ -20,15 +20,3 @@ site: distill::distill_website
 Alvaro J. Pereira Filho is a researcher specializing in Canadian and comparative politics at Western University, Canada. 
 His research primarily centers on partisanship and electoral behavior, and he actively collaborates with scholars from various disciplines, including political psychology and sociology. 
 His work has been featured in *Opinião Pública* and *Innovation in Aging*. 
-
-## Education
-
-**University of Western Ontario** | Ontario, Canada 
-
-Ph.D. in Political Science | September 2019 - Present
-
-**Universidade de Brasilia** | Distrito Federal, Brasil
-
-M.A. in Political Science | March 2015 - June 2017
-
-B.S. in Political Science | August 2008 - October 2012
