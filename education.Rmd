@@ -19,6 +19,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Ph.D. in Political Science | September 2019 - Present
 
+Dissertation: *The Targeting Theory of Partisan Reasoning*
+
+Committe: Laura Stephenson (Chair), Mathieu Turgeon, and Cameron Anderson. 
+
+
 ***
 
 **Universidade de Brasilia** | Distrito Federal, Brasil

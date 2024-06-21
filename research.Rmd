@@ -15,33 +15,33 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**Peer reviewed articles** 
+**Peer-reviewed papers** 
 
-Baker, Melissa; **PEREIRA FILHO, A.J.**; Galipeau, Thomas; & Friesen, Amanda. Affective Language in the Most Important Issues of the 2019 and 2021 Canadian Election Studies. *R&R*.
+**PEREIRA FILHO, A.J.**; Stephenson, Laura; & Turgeon, Mathieu. (2024) Loyalties and Interests: How political motivations influence voters' responses to scandals. *Electoral Studies*, 89, 102792. <a href="https://www.sciencedirect.com/science/article/pii/S0261379424000507" target = "_blank">[Available here]</a>
 
-**PEREIRA FILHO, A.J.**; Stephenson, Laura; & Turgeon, Mathieu. (2024) Loyalties and Interests: How political motivations influence voters' responses to scandals. *Electoral Studies*, 89, 102792. <a href="https://www.sciencedirect.com/science/article/pii/S0261379424000507" target = "_blank">[PDF]</a>
+**PEREIRA FILHO, A.J.**, & Vidigal, Robert. (2023) O Menor dos Males? Identidade Partidária e Ambivalência no Eleitorado Brasileiro. *Opinião Pública*, 29 (3), 638-665. <a href="https://www.scielo.br/j/op/a/ssLvpz8qB5VcyxBpdc5PSqp/#" target = "_blank">[Available here]</a>
 
-**PEREIRA FILHO, A.J.**, & Vidigal, Robert. (2023) O Menor dos Males? Identidade Partidária e Ambivalência no Eleitorado Brasileiro. *Opinião Pública*, 29 (3), 638-665. <a href="https://www.scielo.br/j/op/a/ssLvpz8qB5VcyxBpdc5PSqp/#" target = "_blank">[PDF]</a>
+Zajacova, Anna; **PEREIRA FILHO, A.J.**; Limani, Merita; Grol-Prokopczyk, Hanna; Scherbakov, Dmitry; Fillingim, Roger; Hayward, Mark; Gilron, Ian; & Macfarlane, Gary. (2023) Self-reported pain treatment practices among U.S. and Canadian adults: Findings from a population survey. *Innovation in Aging*, 7(10), igad103. <a href="https://academic.oup.com/innovateage/article/7/10/igad103/7275223?searchresult=1" target = "_blank">[Available here]</a>
 
-Zajacova, Anna; **PEREIRA FILHO, A.J.**; Limani, Merita; Grol-Prokopczyk, Hanna; Scherbakov, Dmitry; Fillingim, Roger; Hayward, Mark; Gilron, Ian; & Macfarlane, Gary. (2023) Self-reported pain treatment practices among U.S. and Canadian adults: Findings from a population survey. *Innovation in Aging*, 7(10), igad103. <a href="https://academic.oup.com/innovateage/article/7/10/igad103/7275223?searchresult=1" target = "_blank">[PDF]</a>
-
-Vidigal, Robert, & **PEREIRA FILHO, A.J.** (2017). Educação e conhecimento político: duas faces de uma mesma moeda ou moedas diferentes? *Em Tese*, vol 14 (1), 172-195. <a href="https://periodicos.ufsc.br/index.php/emtese/article/view/1806-5023.2017v14n1p172" target = "_blank">[PDF]</a>
+Vidigal, Robert, & **PEREIRA FILHO, A.J.** (2017). Educação e conhecimento político: duas faces de uma mesma moeda ou moedas diferentes? *Em Tese*, vol 14 (1), 172-195. <a href="https://periodicos.ufsc.br/index.php/emtese/article/view/1806-5023.2017v14n1p172" target = "_blank">[Available here]</a>
 
 ***
 
-**Peer reviewed report**
+**Peer-reviewed reports**
 
 **PEREIRA FILHO, A.J.**, & Stephenson, Laura. (2024) The 2019 Canadian Election Study: A Mode Comparison in Electoral Studies. *Accepted Manuscript*.
 
 ***
 
-**Book chapter**
+**Book chapters**
 
 Masson, Pedro; & **PEREIRA FILHO, A.J.** (2021). Opiniao Publica. In *Guia Brasileiro de Analise de Dados* (pp. 231-251). ENAP. <a href="https://repositorio.enap.gov.br/bitstream/1/6039/1/Guia%20BR%20de%20Ana%CC%81lise%20de%20Dados.pdf" target = "_blank">[eBook]</a>
 
 ***
 
-**Working paper**
+**Working papers**
+
+Baker, Melissa; **PEREIRA FILHO, A.J.**; Galipeau, Thomas; & Friesen, Amanda. Affective Language in the Most Important Issues of the 2019 and 2021 Canadian Election Studies. *R&R*.
 
 **PEREIRA FILHO, A.J.**. Partisanship under Class Influence? How Class Appeals Emphasize Party Identity in Great Britain. *In preparation for submission*.
 

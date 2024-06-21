@@ -1,0 +1,26 @@
+---
+title: "Funding & Awards"
+#description: |
+#  A new article created using the Distill format.
+#author:
+#  - name: Nora Jones 
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Internal Funding**
+
+- Graduate Research Awards Fund (GRAF) with Tyler Romualdi and Axel Déry - $10,000.00 (2024)
+
+- Research, Training and Development Fund (RTDF) - $1,300.00 (2023)
+
+- Samuel Clark Research Grant with Laura Stephenson (PI) - $5,000.00 (2022)
+
+- Graduate Research Awards Fund (GRAF) - $750.00 (2022) 
