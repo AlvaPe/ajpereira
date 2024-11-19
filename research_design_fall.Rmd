@@ -10,7 +10,8 @@ instructor: "Alvaro J. Pereira Filho (aperei65@uwo.ca)"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Teaching assistants:
+**Teaching assistants:**
+
    Jan Eckardt (jeckardt@uwo.ca)
    Office hours: Monday 1-2pm or by appointment in SSC 7328
  
@@ -19,3 +20,11 @@ Teaching assistants:
  
   Hayl Hasan Hayl Al-Salehi (halsale3@uwo.ca)
   Office hours: Thursday 11:30-12:30pm or by appointment in SSC 732
+  
+**Course description**
+
+This course introduces students to basic concepts and methods of research in the social sciences and, in particular, in political science. Students will learn about how the scientific method of research can be applied to the study of human behaviour, adopting both qualitative or quantitative methods of analysis. In the first part of the course, students will learn about how to identify research questions and conduct literature reviews. In this same section, we will discuss questions related to research ethics and how such concerns can affect the kinds of questions one can ask and how other questions can be answered empirically. Next, we will discuss questions related to argumentation. These include defining clear concepts of interest and proposing strong arguments for building theories that will subsequently be evaluated with data. The following section covers how researchers go about choosing among methods of analysis and how cases are selected to adequately evaluate their research questions. Finally, the course will cover a series of commonly used qualitative and quantitative methods of analysis, including interviews, focus groups, surveys, and experiments
+
+**Required course text**
+
+Brancati, D. 2018. *Social Scientific Research.* Sage. (hereafter Brancati)
