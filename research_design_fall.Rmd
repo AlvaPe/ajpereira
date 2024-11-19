@@ -1,29 +1,21 @@
 ---
 title: "PS2325: Research Design in Political Science"
 output: html_document
-date: "2024-11-19"
+date: ""
+institution: "Department of Political Science– Western University, Fall 2024"
+instructor: "Alvaro J. Pereira Filho (aperei65@uwo.ca)"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Teaching assistants:
+   Jan Eckardt (jeckardt@uwo.ca)
+   Office hours: Monday 1-2pm or by appointment in SSC 7328
+ 
+   HugoMachado(hmachad2@uwo.ca)
+   Office hours: Wednesday 2-3pm or by appointment in SSC 7332
+ 
+  Hayl Hasan Hayl Al-Salehi (halsale3@uwo.ca)
+  Office hours: Thursday 11:30-12:30pm or by appointment in SSC 732
