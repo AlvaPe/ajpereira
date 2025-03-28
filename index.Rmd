@@ -17,5 +17,5 @@ site: distill::distill_website
  
 # Welcome!
 
-I am a researcher specializing in Canadian, politival behaviour, and comparative politics at Western University, Canada. My research primarily centers on public opinion, partisanship and electoral behaviour, and I actively collaborate with scholars from various disciplines, including political psychology and sociology. My publications include observational methods (e.g., using cross-sectional and panel data) and survey experiments.  
+I am a researcher specializing in Canadian, political behaviour, and comparative politics at Western University, Canada. My research primarily centers on public opinion, partisanship and electoral behaviour, and I actively collaborate with scholars from various disciplines, including political psychology and sociology. My publications include observational methods (e.g., using cross-sectional and panel data) and survey experiments.  
 My work has been featured in *International Journal of Public Opinion Research* and *Electoral Studies*. 
