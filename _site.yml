@@ -1,6 +1,6 @@
 name: "."
 title: "Home"
-description: |
+description:
   ajpereira Website
 output_dir: "docs"
 theme: ajpereira-theme.css
