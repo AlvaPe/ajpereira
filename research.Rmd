@@ -17,6 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Peer-reviewed papers** 
 
+Baker, Melissa; **PEREIRA FILHO, A.J.**; Galipeau, Thomas; & Friesen, Amanda. (2025) Affective Language in the Most Important Issues of the 2019 and 2021 Canadian Election Studies. *International Journal of Public Opinion Research*, 37 (2), edaf012,
+<a href="https://doi.org/10.1093/ijpor/edaf012" target = "_blank">[Available here]</a> 
+
 **PEREIRA FILHO, A.J.**; Stephenson, Laura; & Turgeon, Mathieu. (2024) Loyalties and Interests: How political motivations influence voters' responses to scandals. *Electoral Studies*, 89, 102792. <a href="https://www.sciencedirect.com/science/article/pii/S0261379424000507" target = "_blank">[Available here]</a>
 
 **PEREIRA FILHO, A.J.**; & Vidigal, Robert. (2024) O Menor dos Males? Identidade Partidária e Ambivalência no Eleitorado Brasileiro. *Opinião Pública*, 29 (3), 638-665. <a href="https://www.scielo.br/j/op/a/ssLvpz8qB5VcyxBpdc5PSqp/#" target = "_blank">[Available here]</a>
@@ -31,12 +34,6 @@ Vidigal, Robert; & **PEREIRA FILHO, A.J.** (2017). Educação e conhecimento pol
 
 **PEREIRA FILHO, A.J.**; & Stephenson, Laura. (2024) The 2019 Canadian Election Study: A Mode Comparison in Electoral Studies. *C-Dem Report*. <a href="https://ir.lib.uwo.ca/c-dem_workingpapers/12/" target = "_blank">[Available here]</a>
 
-
-***
-
-**Conditional acceptance**
-
-Baker, Melissa; **PEREIRA FILHO, A.J.**; Galipeau, Thomas; & Friesen, Amanda. Affective Language in the Most Important Issues of the 2019 and 2021 Canadian Election Studies. *International Journal of Public Opinion Research*.   
 
 ***
 
