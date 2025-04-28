@@ -17,9 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **University of Western Ontario** | Ontario, Canada 
 
-Ph.D. in Political Science | September 2019 - Present
+Ph.D. in Political Science | September 2019 - 2025
 
-Dissertation: *The Targeting Theory of Partisan Reasoning*
+Dissertation: *Targeting Model of Partisanship*
 
 Committe: Laura Stephenson (Chair), Mathieu Turgeon, and Cameron Anderson. 
 
