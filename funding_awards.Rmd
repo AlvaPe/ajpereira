@@ -31,4 +31,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **External Funding**
 
+- SSHRC Postdoctoral Fellowship - $ 140,000.00 (2025)
+
 - Federal District Research Support Foundation (FAP-DF) - (2016-2017)

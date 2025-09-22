@@ -17,6 +17,6 @@ site: distill::distill_website
  
 # Welcome!
 
-I am a researcher specializing in Canadian, political behaviour, and comparative politics at Western University, Canada. My research primarily centers on public opinion, partisanship and electoral behaviour, and I actively collaborate with scholars from various disciplines, including political psychology and sociology. My dissertation proposes a Targeting Model of Partisanship, including cross-sectional, panel data and survey experiments.  
+I am a SSHRC postdoctoral fellow studying political behaviour and comparative politics at Université du Québec à Montréal (UQAM). My research centers on how elites and masses are linked in democratic systems. My work is situated at the intersection between citizen attitudes, party strategies, and democratic governance. My dissertation proposes a new model of partisanship that connects party appeals (elite targeting) to partisan identity (psychological attachment to a party). I actively collaborate with scholars from various disciplines, including public administration and sociology. 
 
 My work has been featured in *International Journal of Public Opinion Research* and *Electoral Studies*. 
