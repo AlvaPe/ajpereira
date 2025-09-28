@@ -13,7 +13,7 @@ navbar:
     - text: "Funding & Awards"
       href: funding_awards.html
     - text: "Curriculum Vitae"
-      href: CV_alv_Sept22.pdf
+      href: '<a href="/files/CV_alv_Sept22.pdf" download>CV</a>'
     - text: "Teaching"
       menu:
       - text: "Syllabus: Research Design (Fall 2024)"
