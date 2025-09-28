@@ -28,3 +28,19 @@ This course introduces students to basic concepts and methods of research in the
 **Required course text**
 
 Brancati, D. 2018. *Social Scientific Research.* Sage. (hereafter Brancati)
+
+**Course objectives**
+
+  - Explain the goals, subjects, and orientation of social science research; identify the steps in the scientific method;
+  
+  - Present the ethical concerns surrounding the use of human subjects; detail the ethical issues regarding publication like transparency, credit stealing and others;
+  
+  - Introduce criteria for identifying a good research topic; identify ways research can make theoretical and empirical contributions; suggest ways to find inspiration for research;
+  
+  - Describe the purpose and content of a literature review; discuss how to summarize and synthesize research for a literature review;
+  
+  - Define concepts and their importance to research; describe the steps involved in building effective concepts;
+  
+  - Differentiate between deductive and inductive reasoning; define necessary, sufficient, and (neither) necessary and (nor) sufficient conditions; examine different directions through which explanatory factors influence outcomes; identify common mistakes in causal arguments;
+  
+  - Describe the attributes of qualitative and quantitative research; define hypothesis building, hypothesis testing, causal inference, generalizability, and replicability;

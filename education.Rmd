@@ -19,9 +19,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Ph.D. in Political Science | September 2019 - 2025
 
-Dissertation: *Targeting Model of Partisanship*
+Dissertation: *The Targeting Model of Partisanship*
 
-Supervisor: Laura Stephenson.
+Supervisor: Laura B. Stephenson
 
 
 ***
