@@ -16,6 +16,6 @@ navbar:
       href: "CV_alv_Sept22.pdf"
     - text: "Teaching"
       menu:
-      - text: "Syllabus: Research Design (Fall 2024)"
+      - text: "Syllabus: Research Design"
         href: "RD_SYLLABUS.pdf"
 output: distill::distill_article
