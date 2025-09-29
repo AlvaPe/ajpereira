@@ -18,4 +18,6 @@ navbar:
       menu:
       - text: "Syllabus: Research Design"
         href: "RD_SYLLABUS.pdf"
+      - text: "Syllabus: R Workshop"
+        href: "GAPS R Workshop.pdf"
 output: distill::distill_article
