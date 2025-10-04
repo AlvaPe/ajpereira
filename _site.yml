@@ -13,11 +13,11 @@ navbar:
     - text: "Funding & Awards"
       href: funding_awards.html
     - text: "Curriculum Vitae"
-      href: "CV_alv_Sept28.pdf"
+      href: "CV_alv_Oct04.pdf"
     - text: "Teaching"
       menu:
       - text: "Syllabus: Research Design"
         href: "RD_SYLLABUS.pdf"
-      - text: "R Workshop"
-        href: "GAPS R Workshop.pdf"
+      - text: "R Workshop: Western"
+        href: "GAPS_R_Workshop.pdf"
 output: distill::distill_article
