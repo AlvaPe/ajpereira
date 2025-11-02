@@ -12,7 +12,7 @@ navbar:
       href: research.html
     - text: "Funding & Awards"
       href: funding_awards.html
-    - text: "Curriculum Vitae"
+    - text: "CV"
       href: "CV_alv_Oct04.pdf"
     - text: "Teaching"
       menu:
@@ -20,4 +20,8 @@ navbar:
         href: "RD_SYLLABUS.pdf"
       - text: "R Workshop: Western"
         href: "GAPS_R_Workshop.pdf"
+    - text: "Working Papers"
+      menu:
+      - text: "Soliciting Commitment"
+        href: "MANUSCRIPT.pdf"
 output: distill::distill_article
